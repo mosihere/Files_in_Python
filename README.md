@@ -1,0 +1,3 @@
+### It's just an introduction to files in Python.
+#### Feel free to make any change to this code...
+Hope it can be helpful to newbees :)
